@@ -1,0 +1,5 @@
+require 'jasmine'
+require 'middleman'
+require 'middleman-jasmine'
+require 'middleman/jasmine/tasks'
+load 'jasmine/tasks/jasmine.rake'
